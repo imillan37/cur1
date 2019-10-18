@@ -1,2 +1,3 @@
 # cur1
-Development social web 
+Development social web
+ django.atlas
